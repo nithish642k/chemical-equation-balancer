@@ -3,5 +3,5 @@ STEPS TO EXECUTE THE PROJECT:
 - Run the following commands:
   - lex chem.l
   - yacc chem.y
-  - gcc lex.yy.c -ll -ly
+  - gcc y.tab.c -ll -ly
   - ./a.out
