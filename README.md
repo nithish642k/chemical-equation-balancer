@@ -1,7 +1,7 @@
 STEPS TO EXECUTE THE PROJECT:
 - Open the project directory in the terminal
 - Run the following commands:
- -lex chem.l
- -yacc chem.y
- -gcc lex.yy.c -ll -ly
- -./a.out
+  - lex chem.l
+  - yacc chem.y
+  - gcc lex.yy.c -ll -ly
+  - ./a.out
