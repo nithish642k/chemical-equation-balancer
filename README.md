@@ -1,4 +1,4 @@
-# STEPS TO EXECUTE THE PROJECT:
+STEPS TO EXECUTE THE PROJECT:
 1.Open the project directory in the terminal
 2.Run the following commands:
    lex chem.l
